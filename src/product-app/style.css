@@ -1,0 +1,7 @@
+.welcome-msg { width: 300px; padding: 30px; background: linear-gradient(to right, #da4453, #89216b); color: #fff; box-shadow: 10px 10px 10px rgba(0,0,0,0.5); position: absolute; top: 10%; left:1%; animation: slideleft 0.45s ease-in-out; } 
+.welcome-msg h5 { font-size: 20px; } 
+.welcome-msg p span { font-weight: 800; color: orange; letter-spacing: 1px; } 
+@keyframes slideleft { 
+ 0% { opacity: 0; transform: translateX(-100%) }; 100% { opacity: 1; transform: translateX(5%); } 
+ }
+table tbody img { width: 70px;}

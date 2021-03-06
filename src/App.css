@@ -1,0 +1,6 @@
+*{padding: 0; margin: 0; box-sizing: border-box; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+.container {width: 80%; max-width: 1360px; margin: 0 auto;}
+.fs-20 {font-size: 20px;}
+a, a:hover {text-decoration: none;}
+table tr th:nth-of-type(4) {width: 35%;}
+
